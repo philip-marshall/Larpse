@@ -75,4 +75,4 @@ DerivedDataCache/*
  *.log
 */saved/*
  Larpse/Saved/*
-*/Intermediate/*
+Larpse/Intermediate/*
